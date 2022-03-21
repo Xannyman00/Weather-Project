@@ -11,21 +11,6 @@ root.geometry("250x250")
 root.resizable(False, False)
 root.grid()
 
-def runevents():
-    pass
-
-def runhumid():
-    pass
-
-def runwind():
-    pass
-
-def runtemp():
-    pass
-
-def runrain():
-    pass
-
 tk.Label(root, text = "Weather Analysis for Eminence Indiana").grid(column=0,row=0)
 
 tk.Label(root, text = "2011-2022").grid(column=0,row=1)
