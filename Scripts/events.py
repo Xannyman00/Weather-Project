@@ -1,5 +1,2 @@
-class name:
-    def __init__():
-        pass
-    def run():
-        pass
+def run():
+    print("Running this function will pull data into Main")
